@@ -1,19 +1,19 @@
 ﻿# ANY_QR-Menu-Work
 
 
-# This project is a QR Menu of a Restaurant where you can see all the menu online, see all details, make your order..
+ This project is a QR Menu of a Restaurant where you can see all the menu online, see all details, make your order..
 
 
 
-# Applied Technologies:
+ Applied Technologies:
 
-# • HTML5, 
+ • HTML5, 
  
-# • CSS,
+ • CSS,
  
-# • JAVASCRIPT,
+ • JAVASCRIPT,
 
-# • JSON,
+ • JSON,
 
 
 
